@@ -6,7 +6,7 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
 # Input text
-input_text = "This is a test sentence. "
+input_text = "How often does the bus 102 comes on Saturday?"
 
 # Encode the input
 input_ids = tokenizer.encode(input_text, return_tensors="pt")
