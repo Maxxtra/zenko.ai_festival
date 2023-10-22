@@ -1,6 +1,7 @@
-RESTUL MODELULUI ESTE AICI: https://huggingface.co/Maxtra/llama-2-7b-frestival/tree/main
-
 DATASET: https://huggingface.co/datasets/Maxtra/zenko.ai
+
+MODEL: https://huggingface.co/Maxtra/llama-2-7b-frestival/tree/main
+
 ---
 library_name: peft
 ---
